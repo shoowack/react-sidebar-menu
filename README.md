@@ -1,2 +1,4 @@
 # react-sidebar-menu
-Created with CodeSandbox
+
+Converting old jQuery sidebar menu to a fancy React one
+Menu object can be found in src/Menu/Items
